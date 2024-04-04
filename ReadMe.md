@@ -4,7 +4,7 @@ I am a 21-year-old self-taught web developer/designer based in Toronto with a re
 
 ### 🚀 What I'm up to<br>
 
-- Working on a baking recipe website<br>
+- Working on [Laced Up](https://github.com/ljtommasi/laced-up)<br>
 
 ### 🌱 I’m currently learning<br>
 
