@@ -1,5 +1,7 @@
 ## 👋🏼 Hey, I'm Lorenzo 
 
+I'm a service-minded problem solver based in Toronto, with a background in retail, tech, and e-commerce. I'm currently exploring customer success and product design while building and learning on the side through personal projects.
+
 ## 📦 Toolbox
 
 **Frontend Development:** `HTML` `CSS` `JavaScript`
